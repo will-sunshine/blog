@@ -16,7 +16,7 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
+    name    = "选秀"
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
